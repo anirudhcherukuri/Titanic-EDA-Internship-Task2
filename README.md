@@ -9,7 +9,6 @@ Understand the Titanic dataset using statistical methods and visualizations to e
 - Seaborn
 ## Dataset
 - Source: [Kaggle - Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
-- File used: `train.csv`
 ##  EDA Highlights
 - Summary statistics (`mean`, `median`, `std`, etc.)
 - Null value detection and handling
